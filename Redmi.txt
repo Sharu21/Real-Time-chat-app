@@ -1,0 +1,9 @@
+# REAL TIME CHAT APPLICATION
+
+Here we are use some features things like 
+Authentication:This includes support for email and password authentication.
+Realtime database:This is a "NoSQL" database that updates in real time.
+Cloud function:These run extra server-side logic.
+Flutter:It is used to build native mobile applications for different systems (like Android & iOS) through code reuse and a single codebase.
+
+	Here we going to build an real time chat application. It will allwo only authenticated users to send and read messages and users can sign up.Firebase offers a generous free tier that includes authentication and access to their Realtime Database.
